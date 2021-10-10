@@ -12,6 +12,7 @@ align-items: center;
 
 h3{
 
+   
   text-align: center;
   font-weight: 700;
   font-size: 2.25rem;
