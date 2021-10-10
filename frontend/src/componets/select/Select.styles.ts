@@ -18,5 +18,21 @@ export const CentralBox=styled.div `
         font-size: 1.5rem;
         margin-bottom: 3rem;
     }
+    #file{
+        display: none;
+    }
+
+    label{
+        margin-top: 2rem;
+        color:#663e2c;
+        font-weight:500;
+        cursor: pointer;
+        font-size: 1.5rem;
+        background-color: #ccff90;
+        padding: 1rem 3rem;
+
+    }
+
+   
 
 `

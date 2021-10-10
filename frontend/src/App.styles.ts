@@ -2,8 +2,9 @@ import styled,{createGlobalStyle} from "styled-components";
 import background from './assets/imgs/background.svg'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
-import {faArrowRight,faFingerprint,faHandPointUp,faGraduationCap, faHandsHelping,faUser} from '@fortawesome/free-solid-svg-icons'
-  library.add(faArrowRight,faFingerprint,faHandPointUp,faGraduationCap,faHandsHelping,faUser)
+import {faArrowRight,faFingerprint,faHandPointUp,faGraduationCap, faHandsHelping,faUser,faPlus,faFolderPlus,faEdit
+} from '@fortawesome/free-solid-svg-icons'
+  library.add(faArrowRight,faFingerprint,faHandPointUp,faGraduationCap,faHandsHelping,faUser,faPlus,faFolderPlus,faEdit)
   
 
 

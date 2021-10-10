@@ -84,7 +84,7 @@ const Container =styled.div`
     }
 
     .b button{
-        margin-top: 2rem;
+        margin-top: 1.5rem;
         width: 17rem;
         font-size: 1rem;
         .icon{
